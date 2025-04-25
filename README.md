@@ -322,7 +322,7 @@ EchoMuse is released under the MIT License. See the [LICENSE.txt](LICENSE.txt) f
   <img src="https://placehold.co/200x80/4527a0/ffffff?text=EchoMuse" alt="EchoMuse Logo" width="200">
   <p>© 2025 EchoMuse. All rights reserved.</p>
   <p>
-    <i>Where  meets musical creativity.</i>
+    <i>Where AI. meets musical creativity.</i>
   </p>
   <p>
     <a href="https://twitter.com/EchoMuse">Twitter</a> •
