@@ -92,6 +92,32 @@ Our platform serves as your digital muse, providing the creative spark when you 
   </tr>
 </table>
 
+## 🪙 $MUSE Token
+
+**$MUSE** is the native utility token of the EchoMuse ecosystem — blending AI-powered music creation with Web3 ownership, rewards, and decentralized governance.
+
+### 🔧 Key Utilities
+
+- **Access Premium Features**  
+  Use $MUSE to unlock advanced tools within EchoMuse, including multi-track loop generation, HD audio export, and expanded lyric and mood board capabilities.
+
+- **Earn as a Creator**  
+  Share loops, lyrics, and mood boards with the community. When your content is used, you earn $MUSE as a reward.
+
+- **Governance Participation**  
+  Hold $MUSE to propose and vote on platform upgrades, feature priorities, and community grant initiatives.
+
+- **NFT & Licensing Integration**  
+  Mint your creations as NFTs and license your audio assets through blockchain-backed smart contracts — all powered by $MUSE.
+
+### 📦 Token Details
+
+- **Token Name:** EchoMuse Token  
+- **Symbol:** $MUSE  
+- **Blockchain:** Solana  
+- **Total Supply:** TBA 
+- **Contract Address:** TBA
+
 ## 🎯 Target Audience
 
 <div align="center">
