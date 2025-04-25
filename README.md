@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://placehold.co/600x200/4527a0/ffffff?text=EchoMuse" alt="EchoMuse Logo" width="600">
   
-  # EchoMuse
+  # Music Creation Meets the Blockchain
   
-  <h3><em>Sound ideas, instantly.</em></h3>
+  <h3><em>EchoMuse isn't just AI-powered — it's crypto-enabled. The $MUSE token brings real utility to creators, giving you access, ownership, and rewards across the creative journey.</em></h3>
   <p><strong>Website:</strong> <a href="https://echomuse.xyz">echomuse.xyz</a></p>
   <br/>
   
