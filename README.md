@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="banner echomuse 2.png" alt="EchoMuse Banner" width="100%">
+  
   <img src="em pfp.png" alt="EchoMuse Logo" width="600">
   
   # Music Creation Meets the Blockchain
