@@ -9,10 +9,8 @@
   
   [![Website](https://img.shields.io/badge/Website-echomuse.xyz-4527a0?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://echomuse.xyz)
   [![Twitter](https://img.shields.io/badge/Twitter-@EchoMuse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EchoMuse)
-  [![Discord](https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/echomuse)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE.txt)
-  [![Token](https://img.shields.io/badge/Token-$MUSE-f0b90b?style=for-the-badge&logo=ethereum&logoColor=white)](https://echomuse.xyz/token)
-  
+    
   <p align="center">
     <a href="#overview">Overview</a> •
     <a href="#key-features">Features</a> •
