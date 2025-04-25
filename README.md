@@ -1,8 +1,6 @@
 <div align="center">
   <img src="banner echomuse 2.png" alt="EchoMuse Banner" width="100%">
   
-  <img src="em pfp.png" alt="EchoMuse Logo" width="300">
-  
   # Music Creation Meets the Blockchain
   
   <h3><em>EchoMuse isn't just AI-powered — it's crypto-enabled. The $MUSE token brings real utility to creators, giving you access, ownership, and rewards across the creative journey.</em></h3>
