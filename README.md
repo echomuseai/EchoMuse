@@ -110,7 +110,7 @@ Our platform serves as your digital muse, providing the creative spark when you 
 
 ### 📦 Token Details
 
-- **Token Name:** EchoMuse Token  
+- **Token Name:** EchoMuse  
 - **Symbol:** $MUSE  
 - **Blockchain:** Solana  
 - **Total Supply:** TBA 
