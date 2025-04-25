@@ -101,13 +101,10 @@ Our platform serves as your digital muse, providing the creative spark when you 
 
 - **Access Premium Features**  
   Use $MUSE to unlock advanced tools within EchoMuse, including multi-track loop generation, HD audio export, and expanded lyric and mood board capabilities.
-
 - **Earn as a Creator**  
   Share loops, lyrics, and mood boards with the community. When your content is used, you earn $MUSE as a reward.
-
 - **Governance Participation**  
   Hold $MUSE to propose and vote on platform upgrades, feature priorities, and community grant initiatives.
-
 - **NFT & Licensing Integration**  
   Mint your creations as NFTs and license your audio assets through blockchain-backed smart contracts — all powered by $MUSE.
 
