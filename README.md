@@ -129,7 +129,7 @@ EchoMuse leverages cutting-edge technologies:
       <td align="center"><img src="https://placehold.co/60x60/4527a0/ffffff?text=NLP" width="60px"><br><b>Natural Language Processing</b></td>
       <td align="center"><img src="https://placehold.co/60x60/4527a0/ffffff?text=CV" width="60px"><br><b>Computer Vision</b></td>
       <td align="center"><img src="https://placehold.co/60x60/4527a0/ffffff?text=Cloud" width="60px"><br><b>Cloud Infrastructure</b></td>
-      <td align="center"><img src="https://placehold.co/60x60/f0b90b/ffffff?text=⟠" width="60px"><br><b>Blockchain</b></td>
+      <td align="center"><img src="https://placehold.co/60x60/f0b90b/ffffff?text=BC" width="60px"><br><b>Blockchain</b></td>
     </tr>
     <tr>
       <td>Proprietary deep learning models for high-quality audio synthesis</td>
