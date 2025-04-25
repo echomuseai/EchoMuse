@@ -11,10 +11,12 @@
   [![Twitter](https://img.shields.io/badge/Twitter-@EchoMuse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EchoMuse)
   [![Discord](https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/echomuse)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE.txt)
+  [![Token](https://img.shields.io/badge/Token-$MUSE-f0b90b?style=for-the-badge&logo=ethereum&logoColor=white)](https://echomuse.xyz/token)
   
   <p align="center">
     <a href="#overview">Overview</a> •
     <a href="#key-features">Features</a> •
+    <a href="#muse-token">$MUSE Token</a> •
     <a href="#getting-started">Getting Started</a> •
     <a href="#community--support">Support</a> •
     <a href="#roadmap">Roadmap</a>
@@ -29,6 +31,7 @@
 - [Key Features](#key-features)
 - [Target Audience](#target-audience)
 - [Technology Stack](#technology-stack)
+- [Music Creation Meets the Blockchain](#music-creation-meets-the-blockchain)
 - [Getting Started](#getting-started)
 - [Community & Support](#community--support)
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -126,15 +129,54 @@ EchoMuse leverages cutting-edge technologies:
       <td align="center"><img src="https://placehold.co/60x60/4527a0/ffffff?text=NLP" width="60px"><br><b>Natural Language Processing</b></td>
       <td align="center"><img src="https://placehold.co/60x60/4527a0/ffffff?text=CV" width="60px"><br><b>Computer Vision</b></td>
       <td align="center"><img src="https://placehold.co/60x60/4527a0/ffffff?text=Cloud" width="60px"><br><b>Cloud Infrastructure</b></td>
+      <td align="center"><img src="https://placehold.co/60x60/f0b90b/ffffff?text=⟠" width="60px"><br><b>Blockchain</b></td>
     </tr>
     <tr>
       <td>Proprietary deep learning models for high-quality audio synthesis</td>
       <td>Advanced NLP for lyric generation and theme analysis</td>
       <td>Neural networks for creating visuals that match audio aesthetics</td>
       <td>Scalable processing to handle real-time creative generation</td>
+      <td>Decentralized ownership and token-based ecosystem for creators</td>
     </tr>
   </table>
 </div>
+
+## 💰 Music Creation Meets the Blockchain
+
+<img align="right" width="300" src="https://placehold.co/300x200/f0b90b/ffffff?text=$MUSE+Token" alt="MUSE Token" style="margin-left: 20px;">
+
+EchoMuse isn't just AI-powered — it's crypto-enabled. The $MUSE token brings real utility to creators, giving you access, ownership, and rewards across the creative journey.
+
+### Token Utilities
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔑 Access Premium Tools</h3>
+      <p>Unlock advanced AI features like multi-track loop creation, enhanced lyric writing, and HD audio export with $MUSE.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💸 Creator Rewards</h3>
+      <p>Earn $MUSE by sharing loops, mood boards, or prompts with the community — the more your content is used, the more you earn.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗳️ Governance & Voting</h3>
+      <p>Hold $MUSE to vote on platform features, new tool releases, and creator grant initiatives. Help shape the future of EchoMuse.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 NFT Integration & Licensing</h3>
+      <p>Mint your audio creations as NFTs, license loops, or collaborate with others using blockchain-backed ownership — all powered by $MUSE.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://echomuse.xyz/token"><img src="https://img.shields.io/badge/Get_$MUSE-Token_Dashboard-f0b90b?style=for-the-badge&logo=ethereum&logoColor=white" alt="Get $MUSE"></a>
+</div>
+
+<br clear="right"/>
 
 ## 🚀 Getting Started
 
@@ -205,6 +247,16 @@ EchoMuse leverages cutting-edge technologies:
 <details>
   <summary><strong>Can I use EchoMuse offline?</strong></summary>
   <p>Currently, EchoMuse requires an internet connection to generate content. Offline capabilities are on our roadmap for future development.</p>
+</details>
+
+<details>
+  <summary><strong>What is the $MUSE token and how can I acquire it?</strong></summary>
+  <p>$MUSE is EchoMuse's utility token that powers our ecosystem. You can acquire $MUSE by contributing content to the platform, purchasing it on supported exchanges, or earning it through our creator rewards program. Visit <a href="https://echomuse.xyz/token">echomuse.xyz/token</a> for more details.</p>
+</details>
+
+<details>
+  <summary><strong>Do I need $MUSE tokens to use EchoMuse?</strong></summary>
+  <p>No, EchoMuse offers a free tier that doesn't require tokens. However, $MUSE enhances your experience by unlocking premium features, allowing you to participate in governance, and enabling NFT minting of your creations.</p>
 </details>
 
 ## 🗓️ Roadmap
