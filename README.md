@@ -27,6 +27,7 @@
 
 - [Overview](#overview)
 - [Key Features](#key-features)
+- [$MUSE Token](#muse-token)
 - [Target Audience](#target-audience)
 - [Technology Stack](#technology-stack)
 - [Music Creation Meets the Blockchain](#music-creation-meets-the-blockchain)
