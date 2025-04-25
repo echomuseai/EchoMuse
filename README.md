@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/600x200/4527a0/ffffff?text=EchoMuse" alt="EchoMuse Logo" width="600">
+  <img src="em pfp.png" alt="EchoMuse Logo" width="600">
   
   # Music Creation Meets the Blockchain
   
