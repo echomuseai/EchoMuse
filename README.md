@@ -93,6 +93,97 @@ Our platform serves as your digital muse, providing the creative spark when you 
   </tr>
 </table>
 
+# 📦 EchoMuse Installation Guide (Docker)
+
+Welcome to the EchoMuse setup guide! Follow these simple steps to get the platform running locally using Docker.
+
+---
+
+## 🛠️ Requirements
+- [Docker](https://docs.docker.com/get-docker/)
+- [Docker Compose](https://docs.docker.com/compose/)
+
+---
+
+## 🐳 Docker Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/echomuseai/EchoMuse.git
+cd EchoMuse
+```
+
+### 2. Create the Environment File
+```bash
+cp .env.example .env
+```
+Edit the `.env` file and add your real API keys, database URL, and other environment settings.
+
+### 3. Build the Docker Container
+```bash
+docker-compose build
+```
+This will:
+- Pull the base Python 3.11 slim image
+- Install system and Python dependencies
+- Prepare your environment for running EchoMuse
+
+### 4. Run the Application
+```bash
+docker-compose up
+```
+Your EchoMuse platform will now be live at:
+```
+http://localhost:8000
+```
+
+### 5. Stopping the Application
+To gracefully stop all services:
+```bash
+docker-compose down
+```
+
+---
+
+## 📋 Docker File Structure
+
+| File | Purpose |
+|:-----|:--------|
+| `Dockerfile` | Defines how to build the container with Python and dependencies |
+| `docker-compose.yml` | Sets up and manages multi-container applications |
+| `.env.example` | Template for environment variables |
+| `requirements.txt` | List of all required Python packages |
+
+
+---
+
+## 🔧 Notes
+- EchoMuse uses a **dark-mode, AI-powered music generation UI**.
+- `$MUSE` token balances are simulated during the test phase.
+- If you are using a framework like **FastAPI**, ensure the startup command is updated in the `Dockerfile` accordingly (e.g., using `uvicorn`).
+
+
+---
+
+## 🚀 Quick Commands Recap
+| Command | Description |
+|:--------|:------------|
+| `docker-compose build` | Builds the Docker image |
+| `docker-compose up` | Runs the container |
+| `docker-compose down` | Stops and removes the container |
+| `docker-compose logs -f` | View real-time application logs |
+
+---
+
+Thank you for contributing to EchoMuse!
+
+> "Where AI meets musical creativity."
+
+---
+
+# EchoMuse 🔊 | [Website](https://echomuse.xyz) | [GitHub](https://github.com/echomuseai/EchoMuse) | [Twitter](https://twitter.com/EchoMuse)
+
+
 ## 🪙 $MUSE Token
 
 **$MUSE** is the native utility token of the EchoMuse ecosystem — blending AI-powered music creation with Web3 ownership, rewards, and decentralized governance.
