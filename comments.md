@@ -9,8 +9,6 @@ Feel free to share your thoughts, report minor issues, or suggest new features h
 
 ## ✍️ How to Leave a Comment
 
-You can leave a comment by [opening a new Issue](https://github.com/YOUR-USERNAME/EchoMuse/issues/new?labels=comment&template=comment.yml&title=New+Comment).
-
 Please include:
 - **What you liked**
 - **Any suggestions for improvement**
@@ -21,12 +19,7 @@ Please include:
 
 ## 🗨️ Recent Comments
 
-> **AlexJ**: *"Love the clean design of EchoMuse! Would be great to see more integrations."*
-
-> **MariaG**: *"Amazing concept! Could you add support for dark mode?"*
-
-> **LeoW**: *"Small bug when resizing the window on mobile devices — otherwise awesome work!"*
-
+- Nice project; I'm willing to participate. Priya
 ---
 
 Thank you for being part of the EchoMuse journey! 🚀  
