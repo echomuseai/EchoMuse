@@ -439,8 +439,6 @@ EchoMuse is released under the MIT License. See the [LICENSE.txt](LICENSE.txt) f
   </p>
   <p>
     <a href="https://twitter.com/EchoMuse">Twitter</a> •
-    <a href="https://instagram.com/EchoMuse">Instagram</a> •
-    <a href="https://linkedin.com/company/EchoMuse">LinkedIn</a> •
     <a href="https://github.com/EchoMuse">GitHub</a>
   </p>
 </div>
