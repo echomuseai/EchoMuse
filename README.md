@@ -8,7 +8,7 @@
   <br/>
   
   [![Website](https://img.shields.io/badge/Website-echomuse.xyz-4527a0?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://echomuse.xyz)
-  [![Twitter](https://img.shields.io/badge/Twitter-@EchoMuse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EchoMuse)
+  [![Twitter](https://img.shields.io/badge/Twitter-@EchoMuse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/echomuseai)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE.txt)
     
   <p align="center">
@@ -438,7 +438,7 @@ EchoMuse is released under the MIT License. See the [LICENSE.txt](LICENSE.txt) f
     <i>Where AI meets musical creativity.</i>
   </p>
   <p>
-    <a href="https://twitter.com/EchoMuse">Twitter</a> •
-    <a href="https://github.com/EchoMuse">GitHub</a>
+    <a href="https://x.com/echomuseai">Twitter</a> •
+    <a href="https://github.com/echomuseai/">GitHub</a>
   </p>
 </div>
