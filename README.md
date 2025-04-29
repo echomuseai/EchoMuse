@@ -4,7 +4,7 @@
   # Music Creation Meets the Blockchain
 
   <h3><em>Contract Address:</em></h3>
-  <h2><em>TBA</em></h2>
+  <h2><em>33F3eQU4iiXCjmcdVh556TakPum43DXrMuYVyT5ppump</em></h2>
 
   <h3><em>EchoMuse isn't just AI-powered — it's crypto-enabled. The $MUSE token brings real utility to creators, giving you access, ownership, and rewards across the creative journey.</em></h3>
   <p><strong>Website:</strong> <a href="https://echomuse.xyz">echomuse.xyz</a></p>
