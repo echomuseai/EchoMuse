@@ -207,7 +207,7 @@ Thank you for contributing to EchoMuse!
 - **Token Name:** EchoMuse  
 - **Symbol:** $MUSE  
 - **Blockchain:** Solana  
-- **Contract Address:** TBA
+- **Contract Address:** 33F3eQU4iiXCjmcdVh556TakPum43DXrMuYVyT5ppump
 
 ## 🎯 Target Audience
 
